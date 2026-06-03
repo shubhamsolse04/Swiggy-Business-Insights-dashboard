@@ -163,6 +163,6 @@ This project demonstrates how MySQL and Power BI can be used together to transfo
 
 **Shubham Solse**
 
-LinkedIn: <Your LinkedIn Profile URL>
+LinkedIn: https://www.linkedin.com/in/shubham-solse/
 
-GitHub: <Your GitHub Profile URL>
+GitHub: https://github.com/shubhamsolse04/
