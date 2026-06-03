@@ -127,6 +127,13 @@ Created interactive dashboard pages to visualize KPIs and business insights.
 
 ---
 
+## Dashboard Screenshots
+<img width="1251" height="701" alt="First_Page_Swiggy" src="https://github.com/user-attachments/assets/94e14ddd-d511-4ec5-bda7-c25dc4fa4dfe" />
+<img width="1252" height="706" alt="Second_Page_Swiggy" src="https://github.com/user-attachments/assets/ad191a00-8ef6-4c95-ad58-01cf79a73c53" />
+<img width="1252" height="701" alt="Third_Page_Swiggy" src="https://github.com/user-attachments/assets/3346576e-3636-49f9-a769-501efdde0630" />
+<img width="1252" height="705" alt="Fourth_Page_Swiggy" src="https://github.com/user-attachments/assets/2e191fb5-71f5-4818-acfe-cdd19cece44f" />
+
+---
 ## Repository Structure
 
 ```
